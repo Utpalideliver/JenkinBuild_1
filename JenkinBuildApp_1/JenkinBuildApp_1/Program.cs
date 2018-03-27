@@ -15,7 +15,7 @@ namespace JenkinBuildApp_1
         }
         public static String createmessage()
         {
-            return "Hello Jenkins1";
+            return "Hello Jenkins";
         }
         public static String createmessage_1()
         {
